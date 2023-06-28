@@ -1,0 +1,3 @@
+0 blau
+1 gruen
+2 rot
